@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_name">LiaDo • Tugas Hari Ini</string>
+    <string name="widget_desc">Widget tugas yang lucu &amp; futuristik: cincin progres neon, centang langsung dari layar utama.</string>
+    <string name="widget_cd_done">Selesaikan tugas</string>
+    <string name="widget_cd_add">Tugas baru</string>
+</resources>

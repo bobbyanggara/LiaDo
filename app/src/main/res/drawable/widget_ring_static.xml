@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cincin bawaan untuk pratinjau di daftar widget; saat tampil sungguhan diganti bitmap progres -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:innerRadiusRatio="3"
+    android:shape="ring"
+    android:thicknessRatio="10"
+    android:useLevel="false">
+    <gradient
+        android:centerColor="#FFB69CFF"
+        android:endColor="#FF6FE7FF"
+        android:startColor="#FFFF6FA5"
+        android:type="sweep" />
+    <size android:width="46dp" android:height="46dp" />
+</shape>

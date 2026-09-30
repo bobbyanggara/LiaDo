@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Latar widget: gradasi ungu-malam ala antariksa -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <gradient
+        android:angle="315"
+        android:startColor="#FF14112E"
+        android:centerColor="#FF1C1745"
+        android:endColor="#FF2A1B58" />
+    <corners android:radius="28dp" />
+</shape>
